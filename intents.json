@@ -71,12 +71,12 @@
     {
       "tag": "ug courses",
       "patterns": ["undergraduate courses","ug courses provided by lr tiwari","undergraduate courses available","list me the courses available for undergraduate students","i want to know about the courses for undergraduate student","ug course"],
-      "responses": ["\nStream: B.Com.\tStream Code: 22300001\tIntake Capacity (First Year): 240\nStream: B.A.F.\tStream Code: 22300002\tIntake Capacity (First Year): 120\nStream: B.M.S.\tStream Code: 22300005\tIntake Capacity (First Year): 180\nStream: B.B.I.\tStream Code: 22300003\tIntake Capacity (First Year): 60\nStream: B.A.M.M.C.\tStream Code: 22300001NA\tIntake Capacity (First Year): 60\nStream: B.Sc.I.T.\tStream Code: 42300003\tIntake Capacity (First Year): 60\nStream: B.Sc.C.S.\tStream Code: NA\tIntake Capacity (First Year): 60\nStream: B.Sc.H.S.\tStream Code: 423000081\tIntake Capacity (First Year): 60\nStream: B.Sc. Data Science\tStream Code: NA\tIntake Capacity (First Year): 60\nStream: B.Sc. Actuarial Science\tStream Code: NA\tIntake Capacity (First Year): 60\nStream: B.Sc. Aviation\tStream Code: NA\tIntake Capacity (First Year): 60"]
+      "responses": ["\nStream: B.Com.  Stream Code: 22300001  Intake Capacity (First Year): 240\nStream: B.A.F.  Stream Code: 22300002  Intake Capacity (First Year): 120\nStream: B.M.S.  Stream Code: 22300005  Intake Capacity (First Year): 180\nStream: B.B.I.  Stream Code: 22300003  Intake Capacity (First Year): 60\nStream: B.A.M.M.C.  Stream Code: 22300001NA  Intake Capacity (First Year): 60\nStream: B.Sc.I.T.  Stream Code: 42300003  Intake Capacity (First Year): 60\nStream: B.Sc.C.S.  Stream Code: NA  Intake Capacity (First Year): 60\nStream: B.Sc.H.S.  Stream Code: 423000081  Intake Capacity (First Year): 60\nStream: B.Sc. Data Science Stream Code: NA  Intake Capacity (First Year): 60\nStream: B.Sc. Actuarial Science  Stream Code: NA  Intake Capacity (First Year): 60\nStream: B.Sc. Aviation  Stream Code: NA  Intake Capacity (First Year): 60"]
     },
     {
       "tag": "post graduate courses",
       "patterns": ["tell me about post graduate courses","post graduate courses available","pg courses available in lr tiwari college","pg courses"],
-      "responses": ["Stream: M.Com In Accountancy\tStream Code: NA\tIntake Capacity (First Year): 60\nStream: M.Com In Management\tStream Code: NA\tIntake Capacity (First Year): 60\nStream: M.A In Education\tStream Code: NA\tIntake Capacity (First Year): 60"]
+      "responses": ["Stream: M.Com In Accountancy Stream Code: NA  Intake Capacity (First Year): 60\nStream: M.Com In Management  Stream Code: NA  Intake Capacity (First Year): 60\nStream: M.A In Education  Stream Code: NA  Intake Capacity (First Year): 60"]
     },
     {
       "tag": "Eligibility Criteria",
@@ -91,7 +91,7 @@
     {
       "tag": "a student who is absent",
       "patterns": ["what should i do if want to take a leave"," what are the formalities required for taking a leave "," i was unable to attend the lectures "," what should i do if i was absent for a particular or regular lectures"],
-      "responses": ["1] On medical ground needs to:\na] Submit an application addressed to the Principal seeking grant of leave on medical grounds along with a medical certificate issued by a registered medical practitioner for the period of absence. The application should be submitted to the Principal, within four days of resuming classes.\n2] For Participation and representation of the college in events:\na] Such as Sports/ Cultural Events, should submit an application with evidence of participation and signature of staff-in charge of the activity\n3] For any other reason:\na] Should submit an application stating the reason for absence with supporting documents if any for consideration of condonation of absence."]
+      "responses": ["1: On medical ground needs to:\na: Submit an application addressed to the Principal seeking grant of leave on medical grounds along with a medical certificate issued by a registered medical practitioner for the period of absence. The application should be submitted to the Principal, within four days of resuming classes.\n2: For Participation and representation of the college in events:\na: Such as Sports/ Cultural Events, should submit an application with evidence of participation and signature of staff-in charge of the activity\n3: For any other reason:\na: Should submit an application stating the reason for absence with supporting documents if any for consideration of condonation of absence."]
     },
     {
       "tag": "",
